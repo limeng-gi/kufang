@@ -64,4 +64,26 @@
 # else:
 #    print("{0} 不是闰年".format(year))
 
+# import random as a
+# import time
+# randint=a.randint(1,18)
+# sum = 5000
+# i=1
+# while i<=10 :
+#         num = input("请输入一个数字")
+#         num=int(num)
+#         if num!=randint:
+#          print("猜的不对")
+#          sum=sum-500
+#          print(sum)
+#          i=i+1
+#         elif num==randint:
+#          print("哎对了")
+#          sum=sum+3000
+#          print(sum)
+#          i=1
+# else:
+#     print("次数够了")
+# time.sleep(10)
+
 
